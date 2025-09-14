@@ -53,5 +53,4 @@ On the MSLS dataset (can change `--msls_valCity` to `melbourne` or `austin` too)
 python main.py --mode test --pooling dsdnet --dataset msls --msls_valCity amman --seqL 5 --split test --resume ./data/runs/<modelName>/
 ```
   
-## Acknowledgement
-The code in this repository is based on [seqNet](https://github.com/oravus/seqNet). Thanks to for his contributions to this code during the development of our project [OptiCorNet](https://github.com/CV4RA/OptiCorNet.git).
+
